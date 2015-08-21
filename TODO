@@ -1,0 +1,18 @@
+
+# TODOs
+
+Apparently a new type is only registered once, even if the plugin is
+deactivated and then re-activated. So, something will need to be done to
+"undo", e.g. "turn off" plugin manager role once this plugin isn't working,
+then re-activate it once it is... or a robust solution needs to be found.
+
+But for a one-off script for allowing access to plugins/themes ONLY, this will
+do nicely.
+
+The intent of this was to enable a random person in India or eastern Europe to
+be able to view my plugins and versions, then download the new versions and
+upgrade them for me, to outsource that part of my work. Then I could just pay
+someone $8-10/hour instead of it costing my $50-60/hour or more to do the same
+work. (Since that's what I usually make for tech work.)
+
+
