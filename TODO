@@ -16,3 +16,6 @@ someone $8-10/hour instead of it costing my $50-60/hour or more to do the same
 work. (Since that's what I usually make for tech work.)
 
 
+Use a **real** makefile, instead of this make.sh script, to generate a zipfile, as well as having a 'clean' option to remove it.
+
+
